@@ -42,3 +42,10 @@ it should be possible to find all usages of exported functions or variables from
     try to find usages of the myUtil function.
     
     - The IDE shows: `No usages found in Project Files`
+
+
+## Environment
+- WebStorm : Build #WS-253.29346.143, built on December 18, 2025
+- OS : Mac OS Sequoia 15.5
+- NodeJs : 24.11.0
+- Typescript : ^5.9.3
