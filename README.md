@@ -42,7 +42,8 @@ it should be possible to find all usages of exported functions or variables from
     try to find usages of the myUtil function.
     
     - The IDE shows: `No usages found in Project Files`
-
+   
+      <img src="./images/images-0.png" width="500px" />
 
 ## Environment
 - WebStorm : Build #WS-253.29346.143, built on December 18, 2025
