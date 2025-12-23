@@ -1,0 +1,5 @@
+{
+  "*.{json,js,ts,yml,yaml,toml}": "yarn exec eslint --fix",
+  ".lintstagedrc": "yarn exec eslint --fix",
+  ".swcrc": "yarn exec eslint --fix"
+}

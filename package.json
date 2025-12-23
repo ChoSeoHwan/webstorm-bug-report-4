@@ -1,4 +1,12 @@
 {
   "name": "webstorm-bug-report-4",
-  "packageManager": "yarn@4.12.0"
+  "packageManager": "yarn@4.12.0",
+  "workspaces": [
+    "packages/common/*",
+    "packages/service/*/*"
+  ],
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.13",
+    "typescript": "^5.9.3"
+  }
 }
